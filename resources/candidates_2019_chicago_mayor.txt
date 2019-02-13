@@ -1,0 +1,23 @@
+Can|GC|BD|AE|BF|LF|JJ|JK|LL|GM|SM|TP|PV|WW|Content
+M/F| M| M| F| M| M| M| M| F| M| F| F| M| M|x
+Q01| Y| N| N| N| N| -| N| Y| Y| N| Y| Y| N|Uber/CTA
+Q02| Y| -| Y| N| Y| -| Y| Y| Y| Y| Y| N| Y|anonymous
+Q03| Y| Y| -| Y| N| Y| Y| Y| N| Y| Y| Y| N|detective
+Q04| Y| -| Y| Y| N| -| Y| Y| Y| Y| Y| Y| Y|socialwork
+Q05| Y| -| N| Y| N| Y| Y| Y| Y| Y| Y| Y| Y|casino
+Q06| N| N| Y| N| Y| N| N| -| Y| N| -| N| N|financetax
+Q07| N| -| Y| Y| Y| -| N| N| N| N| N| N| N|incometax
+Q08| N| Y| N| Y| N| -| Y| -| N| N| N| N| N|benefitcut
+Q09| Y| Y| Y| Y| Y| -| Y| Y| Y| Y| Y| Y| Y|tickets
+Q10| Y| Y| Y| Y| Y| Y| Y| Y| Y| Y| Y| Y| Y|diversity
+Q11| Y| N| Y| Y| Y| -| Y| Y| Y| Y| Y| -| Y|schlboard
+Q12| N| N| Y| Y| Y| -| Y| -| Y| Y| Y| Y| Y|CBA/OPC
+Q13| Y| N| Y| N| -| N| Y| Y| Y| Y| Y| Y| N|zoning
+Q14| N| -| Y| Y| N| -| Y| Y| Y| Y| Y| Y| Y|affordhome
+Q15| Y| -| Y| Y| N| -| Y| Y| Y| Y| Y| N| Y|publichome
+Q16| Y| Y| Y| Y| Y| -| Y| Y| Y| Y| Y| Y| Y|housevouch
+Q17| Y| -| Y| Y| N| -| Y| Y| Y| Y| N| Y| N|alderzone
+Q18| N| Y| Y| Y| N| -| Y| Y| Y| N| N| -| N|sweepstks
+Q19| Y| Y| -| Y| Y| Y| Y| Y| Y| Y| Y| Y| N|leadpipes
+
+https://interactive.wbez.org/2019/mayoral-questionnaire/
