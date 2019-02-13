@@ -49,13 +49,13 @@
   (let [scores (->> scores-as-map
                     (filter (comp (partial = question) :Can))
                     first)]
-   (->> data-as-map
-        (filter (comp (partial = question) :Can))
-        first
-        candidate
-        keyword
-        scores
-        Integer.)))
+    (->> data-as-map
+         (filter (comp (partial = question) :Can))
+         first
+         candidate
+         keyword
+         scores
+         Integer.)))
 
 
 (def final-tally
