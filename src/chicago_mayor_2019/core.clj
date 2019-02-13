@@ -1,6 +1,5 @@
 (ns chicago-mayor-2019.core)
 
-
 (defn split-on-pipe [line]
   (mapv clojure.string/trim (clojure.string/split line #"\|")))
 
@@ -63,10 +62,10 @@
   (for [candidate (keys initials-to-names)]
     (let [answer (map (juxt :Can candidate) data-as-map)
           nums-to-use (map (partial convert-answer-to-number 
-                                      candidate) 
-                            answer)]
-      [(initials-to-names candidate) 
-       (apply + nums-to-use) 
+                                    candidate)
+                           answer)]
+      [(initials-to-names candidate)
+       (apply + nums-to-use)
        nums-to-use])))
 
 
